@@ -1,6 +1,6 @@
 ### 👋 Ahn, Woo hyun (안우현)
 ---
-<a href="s">
+<a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=awh0418&count_private=true&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
